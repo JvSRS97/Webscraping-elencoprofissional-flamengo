@@ -11,7 +11,7 @@ import jvreis.elencoprofissional.flamengo.classes.Jogador;
 import jvreis.elencoprofissional.flamengo.classes.Time;
 
 public class Scraping {
-	// retorna uma lista de Linhas (olhar classe Dados)
+	//--------------------------------------------------------------------	
 	public static Time search() {
 		// 1 - URL do site a ser acessado
 		String link = ("https://www.flamengo.com.br/elencos/elenco-profissional");
@@ -121,7 +121,8 @@ public class Scraping {
 		return dados;
 	}
 	//--------------------------------------------------------------------	
-		
+	
+	// Metodo para pegar o link de cada jogador
 	public static List<String> pegar_links(List<Element> posicao) {
 		List<String> links = new ArrayList<>();
 		for(Element jogador : posicao) {
@@ -133,7 +134,7 @@ public class Scraping {
 	}
 	
 	
-	// Metodo para acessar a pg do jogador de acordo com o link
+	// Metodo para acessar a pg do jogador de acordo com o link e pegar suas informações
 	public static Jogador acessar_jogador_pg(String link_jogador) {
 	Jogador jogador;
 	jogador = new Jogador();
