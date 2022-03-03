@@ -1,0 +1,47 @@
+
+Goleiros: 
+Diego Alves	1
+Hugo Souza	45
+Matheus Cunha	51
+
+
+Zagueiros: 
+Rodrigo Caio	3
+Gustavo Henrique	2
+Léo Pereira	4
+David Luiz	23
+Noga	41
+Cleiton	33
+Fabrício Bruno	15
+
+
+Laterais Direitos: 
+Rodinei	22
+Isla	44
+Matheuzinho	34
+
+
+Laterais Esquerdos: 
+Renê	6
+Filipe Luís	16
+Ramon	36
+
+Volantes: 
+Willian Arão	5
+Andreas	18
+Thiago Maia	8
+João Gomes	35
+
+Meias: 
+Everton Ribeiro	7
+Diego	10
+De Arrascaeta	14
+Lázaro	13
+Matheus França	42
+
+Atacantes: 
+Gabi	9
+Vitinho	11
+Bruno Henrique	27
+Pedro	21
+Marinho	31

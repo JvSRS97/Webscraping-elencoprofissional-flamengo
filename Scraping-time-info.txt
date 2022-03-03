@@ -1,0 +1,47 @@
+
+Goleiros: 
+Apelido: Diego Alves	Nome: Diego Alves Carreira	Numero: 1	Posição: Goleiros	Nascimento: 24/06/1985 (36 anos)	Cidade: Rio de Janeiro
+Apelido: Hugo Souza	Nome: Hugo de Souza Nogueira	Numero: 45	Posição: Goleiros	Nascimento: 31/01/1999 (23 anos)	Cidade: Duque de Caxias - RJ
+Apelido: Matheus Cunha	Nome: Matheus Cunha	Numero: 51	Posição: Goleiros	Nascimento: 24/05/2001 (20 anos)	Cidade: Tupi Paulista
+
+
+Zagueiros: 
+Apelido: Rodrigo Caio	Nome: Rodrigo Caio Coquette Russo	Numero: 3	Posição: Zagueiros	Nascimento: 17/08/1993 (28 anos)	Cidade: Dracena
+Apelido: Gustavo Henrique	Nome: Gustavo Henrique Vernes	Numero: 2	Posição: Zagueiros	Nascimento: 24/03/1993 (28 anos)	Cidade: São Paulo, SP
+Apelido: Léo Pereira	Nome: Leonardo Pereira	Numero: 4	Posição: Zagueiros	Nascimento: 31/01/1996 (26 anos)	Cidade: Curitiba, PR
+Apelido: David Luiz	Nome: David Luiz Moreira Marinho	Numero: 23	Posição: Zagueiros	Nascimento: 22/04/1987 (34 anos)	Cidade: Diadema
+Apelido: Noga	Nome: Gabriel Noga	Numero: 41	Posição: Zagueiros	Nascimento: 25/01/2002 (20 anos)	Cidade: Volta Redonda
+Apelido: Cleiton	Nome: Cleiton Santana dos Santos	Numero: 33	Posição: Zagueiros	Nascimento: 25/04/2003 (18 anos)	Cidade: Bahia
+Apelido: Fabrício Bruno	Nome: Fabrício Bruno	Numero: 15	Posição: Zagueiros	Nascimento: 12/02/1996 (26 anos)	Cidade: Contagem
+
+
+Laterais Direitos: 
+Apelido: Rodinei	Nome: Rodinei Marcelo de Almeida	Numero: 22	Posição: Laterais Direitos	Nascimento: 29/01/1992 (30 anos)	Cidade: Tatuí/SP
+Apelido: Isla	Nome: Mauricio Aníbal Isla Isla	Numero: 44	Posição: Laterais Direitos	Nascimento: 12/06/1988 (33 anos)	Cidade: Buin
+Apelido: Matheuzinho	Nome: Matheus França Silva	Numero: 34	Posição: Laterais Direitos	Nascimento: 08/09/2000 (21 anos)	Cidade: Londrina
+
+
+Laterais Esquerdos: 
+Apelido: Renê	Nome: Renê Rodrigues Martins	Numero: 6	Posição: Laterais Esquerdos	Nascimento: 14/09/1992 (29 anos)	Cidade: Picos/PI
+Apelido: Filipe Luís	Nome: Filipe Luís Kasmirski	Numero: 16	Posição: Laterais Esquerdos	Nascimento: 09/08/1985 (36 anos)	Cidade: Jaraguá do Sul, SC
+Apelido: Ramon	Nome: Ramon Ramos Lima	Numero: 36	Posição: Laterais Esquerdos	Nascimento: 13/03/2001 (20 anos)	Cidade: São João de Meriti - RJ
+
+Volantes: 
+Apelido: Willian Arão	Nome: Willian Souza Arão da Silva	Numero: 5	Posição: Volantes	Nascimento: 12/03/1992 (29 anos)	Cidade: São Paulo/SP
+Apelido: Andreas	Nome: Andreas Pereira	Numero: 18	Posição: Volantes	Nascimento: 01/01/1996 (26 anos)	Cidade: Duffel, Bélgica
+Apelido: Thiago Maia	Nome: Thiago Maia Alencar	Numero: 8	Posição: Volantes	Nascimento: 23/03/1997 (24 anos)	Cidade: Boa Vista, RR
+Apelido: João Gomes	Nome: João Victor Gomes da Silva	Numero: 35	Posição: Volantes	Nascimento: 12/02/2001 (21 anos)	Cidade: Rio de Janeiro
+
+Meias: 
+Apelido: Everton Ribeiro	Nome: Everton Augusto de Barros Ribeiro	Numero: 7	Posição: Meias	Nascimento: 10/04/1989 (32 anos)	Cidade: Arujá/SP
+Apelido: Diego	Nome: Diego Ribas da Cunha	Numero: 10	Posição: Meias	Nascimento: 28/02/1985 (37 anos)	Cidade: Ribeirão Preto/SP
+Apelido: De Arrascaeta	Nome: Giorgian Daniel De Arrascaeta Benedetti	Numero: 14	Posição: Meias	Nascimento: 01/06/1994 (27 anos)	Cidade: Nuevo Berlín
+Apelido: Lázaro	Nome: Lázaro Vinicius Marques	Numero: 13	Posição: Meias	Nascimento: 12/03/2002 (19 anos)	Cidade: Belo Horizonte, MG
+Apelido: Matheus França	Nome: Matheus França	Numero: 42	Posição: Meias	Nascimento: 01/04/2004 (17 anos)	Cidade: Rio de Janeiro
+
+Atacantes: 
+Apelido: Gabi	Nome: Gabriel Barbosa Almeida	Numero: 9	Posição: Atacantes	Nascimento: 30/08/1996 (25 anos)	Cidade: São Bernardo do Campo
+Apelido: Vitinho	Nome: Victor Vinícius Coelho dos Santos	Numero: 11	Posição: Atacantes	Nascimento: 09/10/1993 (28 anos)	Cidade: Rio de Janeiro
+Apelido: Bruno Henrique	Nome: Bruno Henrique Pinto	Numero: 27	Posição: Atacantes	Nascimento: 30/12/1990 (31 anos)	Cidade: Belo Horizonte
+Apelido: Pedro	Nome: Pedro Guilherme Abreu dos Santos	Numero: 21	Posição: Atacantes	Nascimento: 20/06/1997 (24 anos)	Cidade: Rio de Janeiro, RJ
+Apelido: Marinho	Nome: Mário Sérgio Santos Costa	Numero: 31	Posição: Atacantes	Nascimento: 29/05/1990 (31 anos)	Cidade: Penedo

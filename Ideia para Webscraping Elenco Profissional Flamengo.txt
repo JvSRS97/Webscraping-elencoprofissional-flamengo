@@ -1,0 +1,40 @@
+URL: https://www.flamengo.com.br/elencos/elenco-profissional
+
+Ideia principal era a ideia abaixo. Porém, ao criar as funções, percebi que seria mais viável pegar o link de cada jogador através de um webcrawler embutido neste mesmo programa e posteriormente coletar os dados.
+Time:
+div class: col-12
+	h2 class: border-left-3 border-danger text-uppercase title-pages mb-3 (posição: goleiro, zagueiro, etc)
+	div class: elenco mb-4
+		div class: elenco-atleta
+			a href: (link do jogador)
+			div class: content
+				div class: back d-flex justify-content-center align-items-center
+					h2 class: text-white 
+						span class: d-block (nome do jogado)
+
+Jogador: (precisa do link do jogador)
+
+div class: card-body pl-10 p-relative info-persona
+nº:  span class: text-danger d-flex justify-content-center align-items-center font-weight-bold shirt-number
+	h2 class: text-white text-uppercase (apelido do jogador)	
+	p class: text-white text-uppercase (nome completo do jogador)
+	ul class: list-unstyled mb-1
+		possui 3[li]: posição, nascimento e cidade
+		li class: text-white text-uppercase
+
+Time:
+Lista<jogador> goleiros
+Lista<jogador> zagueiros
+Lista<jogador> laterais_direitos
+Lista<jogador> laterais_esquerdos
+Lista<jogador> volantes
+Lista<jogador> meias
+Lista<jogador> atacantes
+
+Jogador:
+String apelido
+String nome
+String numero
+String posicao
+String nascimento
+String cidade
